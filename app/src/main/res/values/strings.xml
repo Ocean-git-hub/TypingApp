@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TypingApp</string>
+    <string name="title_activity_typing">TypingActivity</string>
+    <string name="title_activity_settings">Settings</string>
+
+    <string name="key_switch_preference">SEOfIncorrectAnswer</string>
+    <string name="str1">追加したい文・単語</string>
+</resources>

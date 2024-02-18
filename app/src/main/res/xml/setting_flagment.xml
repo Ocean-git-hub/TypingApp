@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <SwitchPreference
+        android:title="不正解時の効果音"
+        android:key="@string/key_switch_preference"
+        android:switchTextOff="OFF"
+        android:switchTextOn="ON">
+    </SwitchPreference>
+</PreferenceScreen>
